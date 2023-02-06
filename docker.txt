@@ -1,2 +1,3 @@
 Docker é um Gerenciador de Conteiners.
-esse texto foi criado nov vscode.
+esse texto foi criado no vscode.
+aula git
